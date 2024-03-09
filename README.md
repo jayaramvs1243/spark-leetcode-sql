@@ -3,6 +3,8 @@ spark-leetcode-sql
 
 Resolving LeetCode SQL problems using Spark
 
+**Pending:** #177, #512, #534, #569
+
 Project Organization
 ------------
 
