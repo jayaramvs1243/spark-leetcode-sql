@@ -119,3 +119,5 @@ webencodings @ file:///home/conda/feedstock_root/build_artifacts/webencodings_16
 websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1701630677416/work
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1707420319466/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
+
+setuptools~=69.1.1
