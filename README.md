@@ -7,7 +7,7 @@ Resolving LeetCode SQL problems using Spark
 
 `references` directory contains a PDF document with a collection of 175 LeetCode problems
 
-**Pending:** #177, #512, #534, #569, #571, #574, #578, #579, #580, #597, #603
+**Pending:** #177, #512, #534, #569, #571, #574, #578, #579, #580, #597, #603, #612, #613, #614, #615, #618
 
 Project Organization
 ------------
